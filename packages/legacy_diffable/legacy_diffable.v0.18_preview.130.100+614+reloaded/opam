@@ -1,0 +1,26 @@
+version: "v0.18_preview.130.100+614+reloaded"
+opam-version: "2.0"
+maintainer: "Jane Street developers"
+authors: ["Jane Street Group, LLC"]
+homepage: "https://github.com/janestreet/legacy_diffable"
+bug-reports: "https://github.com/janestreet/legacy_diffable/issues"
+dev-repo: "git+https://github.com/janestreet/legacy_diffable.git"
+doc: "https://ocaml.janestreet.com/ocaml-core/latest/doc/legacy_diffable/index.html"
+license: "MIT"
+x-maintenance-intent: ["(latest)"]
+build: [
+  ["dune" "build" "-p" name "-j" jobs]
+]
+depends: [
+  "ocaml" {>= "5.5.0"}
+  "core"
+  "ppx_jane"
+  "stored_reversed"
+  "streamable"
+  "dune"            {>= "3.17.0"}
+]
+available: arch != "x86_32"
+synopsis: "An interface for diffs."
+description: "
+Diffable interface.
+"
