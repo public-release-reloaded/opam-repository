@@ -36,3 +36,7 @@ description: "
 The library itself may be found at
 https://github.com/Matt-Esch/virtual-dom.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/virtual_dom.git#v0.18_preview.130.100+614+reloaded"
+}

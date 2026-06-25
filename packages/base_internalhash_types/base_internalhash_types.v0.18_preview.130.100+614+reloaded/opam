@@ -22,3 +22,7 @@ Used by (and formerly part of) ppx_hash; extracted into its own lightweight
 package to allow hand-writing ppx_hash-compatible hash functions without
 depending on ppx_hash.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/base_internalhash_types.git#v0.18_preview.130.100+614+reloaded"
+}

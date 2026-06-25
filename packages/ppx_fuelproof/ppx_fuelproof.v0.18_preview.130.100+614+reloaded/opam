@@ -32,3 +32,7 @@ type mode-cross in the way you want:
      the compiler limits how hard it will try to prove mode-crossing.)
   3. It lets you have some amount of mode-crossing GADTs.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_fuelproof.git#v0.18_preview.130.100+614+reloaded"
+}

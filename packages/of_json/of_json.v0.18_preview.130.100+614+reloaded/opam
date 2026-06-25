@@ -24,3 +24,7 @@ synopsis: "A friendly applicative interface for Jsonaf."
 description: "
 This library provides an applicative interface for extracting values from JSON objects with an emphasis on readability and error handling, particularly with nested values.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/of_json.git#v0.18_preview.130.100+614+reloaded"
+}

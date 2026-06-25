@@ -38,3 +38,7 @@ On the server side, the library detects when a websocket connection
 is established, and routes to an optionally provided vanilla HTTP handler
 when non-websocket traffic occurs.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/async_rpc_websocket.git#v0.18_preview.130.100+614+reloaded"
+}

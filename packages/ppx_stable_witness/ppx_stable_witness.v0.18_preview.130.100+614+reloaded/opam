@@ -24,3 +24,7 @@ synopsis: "Ppx extension for deriving a witness that a type is intended to be st
 description: "
 Part of the Jane Street's PPX rewriters collection.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_stable_witness.git#v0.18_preview.130.100+614+reloaded"
+}

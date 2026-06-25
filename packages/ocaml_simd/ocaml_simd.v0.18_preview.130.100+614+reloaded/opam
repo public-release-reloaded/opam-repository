@@ -32,3 +32,7 @@ synopsis: "SIMD intrinsics supported by the OxCaml compiler."
 description: "
  SIMD intrinsics supported by the OxCaml compiler.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ocaml_simd.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -25,3 +25,7 @@ Stdio implements simple input/output functionalities for OCaml.
 It re-exports the input/output functions of the OCaml standard
 libraries using a more consistent API.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/stdio.git#v0.18_preview.130.100+614+reloaded"
+}

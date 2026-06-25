@@ -22,3 +22,7 @@ synopsis: "Libraries for fuzzy string matching"
 description: "
 Libraries for fuzzy string matching
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/fuzzy_match.git#v0.18_preview.130.100+614+reloaded"
+}

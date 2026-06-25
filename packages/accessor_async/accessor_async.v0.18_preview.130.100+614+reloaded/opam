@@ -25,3 +25,7 @@ synopsis: "Accessors for Async types, for use with the Accessor library"
 description: "
 This library provides accessors for numerous types in Async.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/accessor_async.git#v0.18_preview.130.100+614+reloaded"
+}

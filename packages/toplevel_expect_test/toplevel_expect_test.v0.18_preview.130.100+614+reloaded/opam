@@ -36,3 +36,7 @@ the toplevel in the same file. This provides an easy way to test
 compilations errors as well as provide a nice alternative to using
 the toplevel in a terminal.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/toplevel_expect_test.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -32,3 +32,7 @@ strongly encouraging good performance and correctness practices, via said interf
 
 Async_iterator is relied upon by many of the most mission-critical systems at Jane Street.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/async_iterator.git#v0.18_preview.130.100+614+reloaded"
+}

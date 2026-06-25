@@ -23,3 +23,7 @@ synopsis: "An Interval_lib.Interval but with empty intervals disallowed."
 description: "
 An interval with an extra layer of safety and more convenient accessors that return values instead of value options.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/nonempty_interval_lib.git#v0.18_preview.130.100+614+reloaded"
+}

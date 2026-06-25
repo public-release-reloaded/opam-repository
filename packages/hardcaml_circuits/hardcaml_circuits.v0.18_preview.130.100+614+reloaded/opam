@@ -27,3 +27,7 @@ synopsis: "Hardcaml Circuits"
 description: "
 A small library of useful/interesting Hardcaml circuits.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_circuits.git#v0.18_preview.130.100+614+reloaded"
+}

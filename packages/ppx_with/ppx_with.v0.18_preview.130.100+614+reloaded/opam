@@ -24,3 +24,7 @@ description: "
 A ppx rewriter for building scoped operations, which must do cleanup or similar work
      after a main body, while maintaining readability.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_with.git#v0.18_preview.130.100+614+reloaded"
+}

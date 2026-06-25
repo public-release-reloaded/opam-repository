@@ -30,3 +30,7 @@ A monad for interacting with Hardcaml.Cyclesim based simulations.
 Allows multiple control threads to interact with a simulation module, all of which are
 synchronised to the system clock.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_step_testbench.git#v0.18_preview.130.100+614+reloaded"
+}

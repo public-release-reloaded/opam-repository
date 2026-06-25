@@ -24,3 +24,7 @@ synopsis: "Pattern matching for expect test output"
 description: "
 [Expect_test_patterns] is a library for matching expect test output against patterns.It supports literal, glob, regexp, and escaped line matchers, making it easy to write expect tests whose output contains variable content such as timestamps, hashes, or temporary file paths.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/expect_test_patterns.git#v0.18_preview.130.100+614+reloaded"
+}

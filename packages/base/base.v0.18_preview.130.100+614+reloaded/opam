@@ -42,3 +42,7 @@ provided by companion libraries such as stdio:
 
   https://github.com/janestreet/stdio
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/base.git#v0.18_preview.130.100+614+reloaded"
+}

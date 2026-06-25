@@ -25,3 +25,7 @@ description: "
 Base_yojson provides bindings to make Yojson compatible with the Jane Street's PPX
 rewriters collection, including ppx_yojson_conv.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/base_yojson.git#v0.18_preview.130.100+614+reloaded"
+}

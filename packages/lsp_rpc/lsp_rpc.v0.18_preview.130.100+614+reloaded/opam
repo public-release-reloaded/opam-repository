@@ -32,3 +32,7 @@ This library provides an implementation of the RPC layer for language servers to
 writing language servers in OCaml. The underlying LSP and JSON RPC libraries come from the
 OCaml-LSP project; this library provides an Async RPC layer on top of them.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/lsp_rpc.git#v0.18_preview.130.100+614+reloaded"
+}

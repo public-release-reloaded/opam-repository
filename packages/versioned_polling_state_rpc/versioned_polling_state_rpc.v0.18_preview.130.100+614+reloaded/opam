@@ -25,3 +25,7 @@ synopsis: "Helper functions for creating stable/versioned `Polling_state_rpc.t`s
 description: "
 Helper functions for creating stable/versioned `Polling_state_rpc.t`s with babel.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/versioned_polling_state_rpc.git#v0.18_preview.130.100+614+reloaded"
+}

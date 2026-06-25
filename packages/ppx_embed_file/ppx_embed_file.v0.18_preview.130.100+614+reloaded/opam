@@ -23,3 +23,7 @@ synopsis: "A PPX that allows embedding files directly into executables/libraries
 description: "
 Part of the Jane Street's PPX rewriters collection.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_embed_file.git#v0.18_preview.130.100+614+reloaded"
+}

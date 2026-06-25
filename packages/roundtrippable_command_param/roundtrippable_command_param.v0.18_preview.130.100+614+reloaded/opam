@@ -33,3 +33,7 @@ synopsis: "A library for building Command.Param.t values that can roundtrip to c
 description: "
 Roundtrippable_command_param provides utilities for creating Command.Param.t values that can be converted back to command-line arguments, enabling serialization of command parameters.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/roundtrippable_command_param.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -37,3 +37,7 @@ synopsis: "Implementations of awaiting and synchronization primitives for OxCaml
 description: "
 [Await] provides implementations of awaiting and synchronization primitives for OxCaml.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/await.git#v0.18_preview.130.100+614+reloaded"
+}

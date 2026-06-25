@@ -30,3 +30,7 @@ types.
 
 Supports client tracking and internally uses the RESP3 protocol. 
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/redis-async.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -25,3 +25,7 @@ synopsis: "A ppx expander that expands anonymous records into (typed) tuples."
 description: "
 A ppx expander that allows you to write safer code by (effectively) labelling tuples.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_anonymous_record.git#v0.18_preview.130.100+614+reloaded"
+}

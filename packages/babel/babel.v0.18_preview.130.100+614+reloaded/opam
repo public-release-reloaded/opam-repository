@@ -27,3 +27,7 @@ synopsis: "A library for defining Rpcs that can evolve over time without breakin
 description: "
 A library for defining Rpcs that can evolve over time without breaking backward compatibility.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/babel.git#v0.18_preview.130.100+614+reloaded"
+}

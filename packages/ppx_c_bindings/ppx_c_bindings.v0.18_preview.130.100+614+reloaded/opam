@@ -26,3 +26,7 @@ synopsis: "Easily write C bindings from within OCaml"
 description: "
 A ppx rewriter makes it easy to write C bindings from within OCaml.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_c_bindings.git#v0.18_preview.130.100+614+reloaded"
+}

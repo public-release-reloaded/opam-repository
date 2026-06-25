@@ -29,3 +29,7 @@ in a sequence of lines in an intelligent way.
 
 It comes as a binary and an emacs mode.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/line-up-words.git#v0.18_preview.130.100+614+reloaded"
+}

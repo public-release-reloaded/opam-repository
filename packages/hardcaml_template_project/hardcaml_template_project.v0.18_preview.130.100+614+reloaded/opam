@@ -20,3 +20,7 @@ synopsis: "Simple starter project for hardcaml development"
 description: "
 A simple starter project including a hardcaml design, testbench, and RTL generation.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_template_project.git#v0.18_preview.130.100+614+reloaded"
+}

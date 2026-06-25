@@ -23,3 +23,7 @@ synopsis: "A table of [Async.Sequencer]'s, indexed by key"
 description: "
 A single-module library for a data structure.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/sequencer_table.git#v0.18_preview.130.100+614+reloaded"
+}

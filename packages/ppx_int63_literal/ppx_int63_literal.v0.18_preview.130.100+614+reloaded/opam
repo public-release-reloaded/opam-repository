@@ -22,3 +22,7 @@ synopsis: "Syntax extension for writing int63 literals."
 description: "
 This ppx allows users to write `Int63.t` values as literals, e.g. `Int63.zero` is `0J`.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_int63_literal.git#v0.18_preview.130.100+614+reloaded"
+}

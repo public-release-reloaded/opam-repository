@@ -39,3 +39,7 @@ The library is closely integrated with Hardcaml and can be easily attached
 to simulations.
 "
 conflicts: ["hardcaml-waveterm"] 
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_waveterm.git#v0.18_preview.130.100+614+reloaded"
+}

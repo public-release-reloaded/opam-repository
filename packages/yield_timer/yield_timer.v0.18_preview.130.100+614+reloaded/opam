@@ -35,3 +35,7 @@ Convenience helpers are provided for iterating over [Sequence.t], [Map.t],
 [Set.t], [List.t], and [Pipe.t] (folds, iters, maps, filters, etc.) that
 transparently interleave yields at the configured cadence.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/yield_timer.git#v0.18_preview.130.100+614+reloaded"
+}

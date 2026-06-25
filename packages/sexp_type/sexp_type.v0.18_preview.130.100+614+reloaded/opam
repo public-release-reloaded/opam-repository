@@ -21,3 +21,7 @@ synopsis: "Sexp type"
 description: "
 The definition of `Sexp.t` and `Sexp_grammar.t`.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/sexp_type.git#v0.18_preview.130.100+614+reloaded"
+}

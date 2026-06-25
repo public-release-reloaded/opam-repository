@@ -26,3 +26,7 @@ This library contains a type definition for XPATHs, as well as way to
     serialize it, deserialize it, and run it on an XML document.
   
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/xpath.git#v0.18_preview.130.100+614+reloaded"
+}

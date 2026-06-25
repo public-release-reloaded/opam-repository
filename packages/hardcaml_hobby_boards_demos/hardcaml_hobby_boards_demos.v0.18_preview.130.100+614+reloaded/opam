@@ -20,3 +20,7 @@ synopsis: "Example projects using hardcaml_hobby_boards library."
 description: "
 Example projects to demonstrate how to use hardcaml_hobby_boards libraries with different boards.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_hobby_boards_demos.git#v0.18_preview.130.100+614+reloaded"
+}

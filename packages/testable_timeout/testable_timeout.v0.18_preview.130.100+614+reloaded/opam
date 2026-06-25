@@ -24,3 +24,7 @@ synopsis: "An API like the browser's setTimeout, but driven by an overridable as
 description: "
 An API like the browser's setTimeout, but driven by an overridable async time source.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/testable_timeout.git#v0.18_preview.130.100+614+reloaded"
+}

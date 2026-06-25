@@ -23,3 +23,7 @@ available: arch != "x86_32"
 synopsis: "Shell helpers for Async"
 description: "
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/async_shell.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -23,3 +23,7 @@ synopsis: "A library for getting the path to the currently running executable, w
 description: "
 In some environments, arg0 does not contain the path necessary to launch the current program. This library can serve as a coordination point so that environment setup code can supply the correct path to other code that will need it, without the other code having to be aware that it's in an unusual environment.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/current_exe.git#v0.18_preview.130.100+614+reloaded"
+}

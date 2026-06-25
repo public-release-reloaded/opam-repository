@@ -29,3 +29,7 @@ description: "
 Core_profiler is a library that helps you profile programs and
 estimate various costs.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/core_profiler.git#v0.18_preview.130.100+614+reloaded"
+}

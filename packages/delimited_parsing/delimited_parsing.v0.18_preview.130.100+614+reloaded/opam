@@ -25,3 +25,7 @@ description: "
 Delimited_parsing parses character-separated values (such as CSV files) and fixed-width
 records.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/delimited_parsing.git#v0.18_preview.130.100+614+reloaded"
+}

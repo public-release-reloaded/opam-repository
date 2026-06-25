@@ -25,3 +25,7 @@ synopsis: "Bindings for running a tmux session."
 description: "
 Bindings for running a tmux session.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/tmux.git#v0.18_preview.130.100+614+reloaded"
+}

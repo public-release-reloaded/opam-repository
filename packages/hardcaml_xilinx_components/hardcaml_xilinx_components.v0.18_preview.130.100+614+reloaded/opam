@@ -28,3 +28,7 @@ description: "
 A tool for reading Xilinx VHDL Unisim and XPM component definitions from a Vivado
 installation and generating Hardcaml interfaces automatically.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_xilinx_components.git#v0.18_preview.130.100+614+reloaded"
+}

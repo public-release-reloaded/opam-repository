@@ -28,3 +28,7 @@ Delta types are the changes you need to make to modify one type into
      instead of copying the previous version of the type and making the
      changes yourself.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_delta_types.git#v0.18_preview.130.100+614+reloaded"
+}

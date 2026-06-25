@@ -26,3 +26,7 @@ description: "
 Delimited_non_csv provides parsers for non-CSV-like delimited formats, including
 character-separated values without quoting and fixed-width positional records.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/delimited_non_csv.git#v0.18_preview.130.100+614+reloaded"
+}

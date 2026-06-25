@@ -35,3 +35,7 @@ synopsis: "PPX_HTML is a way of constructing Vdom.Node.t's using HTML syntax."
 description: "
 PPX_HTML is a way of constructing Vdom.Node.t's using HTML syntax.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_html.git#v0.18_preview.130.100+614+reloaded"
+}

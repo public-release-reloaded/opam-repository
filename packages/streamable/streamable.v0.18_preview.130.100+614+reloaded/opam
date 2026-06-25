@@ -29,3 +29,7 @@ synopsis: "A collection of types suitable for incremental serialization."
 description: "
 A collection of types suitable for incremental serialization.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/streamable.git#v0.18_preview.130.100+614+reloaded"
+}

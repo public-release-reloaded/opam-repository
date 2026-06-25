@@ -23,3 +23,7 @@ description: "
 This library is an abstract verion of the parsing automaton. It is used to define the
     automaton and generate parser code and for tests.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/parsexp_symbolic_automaton.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -26,3 +26,7 @@ version themselves. The more protocols that add themselves to
 [Known_protocol], the nicer error messages we will get when connecting
 to a service while using the wrong protocol.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/protocol_version_header.git#v0.18_preview.130.100+614+reloaded"
+}

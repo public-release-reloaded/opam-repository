@@ -22,3 +22,7 @@ synopsis: "A grab-bag of small but useful AST transformations"
 description: "
 This ppx is a collection of small AST transformations that might not otherwise warrant their own ppx.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_shorthand.git#v0.18_preview.130.100+614+reloaded"
+}

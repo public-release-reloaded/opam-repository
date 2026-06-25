@@ -29,3 +29,7 @@ synopsis: "Unboxed types for OxCaml"
 description: "
  A library for unboxed number types.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/unboxed.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -39,3 +39,7 @@ synopsis: "A set of Terminal UI (TUI) component libraries for bonsai_term."
 description: "
 bonsai_term_components is an opam package that contains a couple of bonsai_term TUI components.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/bonsai_term_components.git#v0.18_preview.130.100+614+reloaded"
+}

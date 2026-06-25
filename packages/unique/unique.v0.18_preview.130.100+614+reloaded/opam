@@ -24,3 +24,7 @@ synopsis: "Unique value containers for OxCaml"
 description: "
  A library for containers of unique values.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/unique.git#v0.18_preview.130.100+614+reloaded"
+}

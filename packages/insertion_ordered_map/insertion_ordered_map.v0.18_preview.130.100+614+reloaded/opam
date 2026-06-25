@@ -23,3 +23,7 @@ synopsis: "A Core.Map with a notion of insertion order."
 description: "
 A Core.Map where any operation that iterates through keys (e.g. fold, iter_keys) will iterate in insertion order with O(N) complexity.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/insertion_ordered_map.git#v0.18_preview.130.100+614+reloaded"
+}

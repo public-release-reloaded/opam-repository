@@ -22,3 +22,7 @@ available: arch != "x86_32"
 synopsis: "Typerep is a library for runtime types"
 description: "
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/typerep.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -25,3 +25,7 @@ description: "
 A ppx extension for easier implementation of conversion functions between almost
 identical types.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_stable.git#v0.18_preview.130.100+614+reloaded"
+}

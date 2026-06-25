@@ -22,3 +22,7 @@ available: arch != "x86_32"
 synopsis: "Diff library using Bram Cohen's patience diff algorithm"
 description: "
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/patience_diff.git#v0.18_preview.130.100+614+reloaded"
+}

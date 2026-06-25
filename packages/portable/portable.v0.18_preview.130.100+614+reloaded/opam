@@ -30,3 +30,7 @@ Part of Jane Street's Core library
 Portable is a library containing core interfaces and data structures for parallel
 programming using OCaml and OxCaml
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/portable.git#v0.18_preview.130.100+614+reloaded"
+}

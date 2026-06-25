@@ -27,3 +27,7 @@ Syntactic help for writing portable code, especially Portable_lazy values. Provi
 `lazy%portable` for constructing them and `let%portable rec` for defining recursive and
 mutually recursive values using Portable_lazy.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_portable.git#v0.18_preview.130.100+614+reloaded"
+}

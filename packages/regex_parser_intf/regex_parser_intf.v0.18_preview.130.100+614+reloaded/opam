@@ -20,3 +20,7 @@ available: arch != "x86_32"
 synopsis: "Interface shared by Re_parser and Re2.Parser"
 description: "
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/regex_parser_intf.git#v0.18_preview.130.100+614+reloaded"
+}

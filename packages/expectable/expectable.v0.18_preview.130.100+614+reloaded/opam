@@ -24,3 +24,7 @@ synopsis: "A library that makes it easier to print ASCII tables in tests. All yo
 description: "
 `Expectable` is a library that makes it easier to print ASCII tables in tests. All you need is a sexp, and Expectable will take care of the rest!
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/expectable.git#v0.18_preview.130.100+614+reloaded"
+}

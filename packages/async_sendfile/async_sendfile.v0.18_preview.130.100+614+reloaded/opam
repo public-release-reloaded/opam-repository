@@ -24,3 +24,7 @@ available: arch != "x86_32"
 synopsis: "Thin wrapper around [Linux_ext.sendfile] to send full files"
 description: "
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/async_sendfile.git#v0.18_preview.130.100+614+reloaded"
+}

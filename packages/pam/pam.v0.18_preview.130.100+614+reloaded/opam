@@ -28,3 +28,7 @@ authentication tasks to the Linux-PAM framework.
 depexts: [
   ["pam-devel"] {os-family = "fedora"}
 ]
+
+url {
+  src: "git+https://github.com/public-release-reloaded/pam.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -23,3 +23,7 @@ synopsis: "Mutable vector of floats with efficient operations"
 description: "
 Mutable vector of floats with O(1) get and set operations.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/float_array.git#v0.18_preview.130.100+614+reloaded"
+}

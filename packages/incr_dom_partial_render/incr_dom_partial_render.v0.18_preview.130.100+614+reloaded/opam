@@ -30,3 +30,7 @@ synopsis: "A library for simplifying rendering of large amounts of data"
 description: "
 This library provides tools for rendering of tabular data efficiently, in particular supporting _partial rendering_, i.e. only rendering a subset of the widgets that are logically in the view, depending on what is expected to be visible to the end user.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/incr_dom_partial_render.git#v0.18_preview.130.100+614+reloaded"
+}

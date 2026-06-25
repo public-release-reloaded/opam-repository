@@ -31,3 +31,7 @@ synopsis: "A library for building composable URI parsers using ppx_typed_fields.
 description: "
 A library for building composable URI parsers using ppx_typed_fields.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/uri_parsing.git#v0.18_preview.130.100+614+reloaded"
+}

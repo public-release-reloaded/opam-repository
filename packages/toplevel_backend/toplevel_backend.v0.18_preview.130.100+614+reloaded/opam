@@ -28,3 +28,7 @@ synopsis: "Shared backend for setting up toplevels"
 description: "
 Module for setting up dependencies (like printers and liblinks) for toplevels.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/toplevel_backend.git#v0.18_preview.130.100+614+reloaded"
+}

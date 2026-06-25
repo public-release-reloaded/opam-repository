@@ -30,3 +30,7 @@ This library provides an implementation of a trie data structure.
 Lookup is based on \"chains\" of keys; each node of the trie has children representing
 each potential next key in the chain.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/base_trie.git#v0.18_preview.130.100+614+reloaded"
+}

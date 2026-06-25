@@ -24,3 +24,7 @@ synopsis: "String type based on [Bigarray], for use in I/O and C-bindings"
 description: "
 String type based on [Bigarray], for use in I/O and C-bindings.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/base_bigstring.git#v0.18_preview.130.100+614+reloaded"
+}

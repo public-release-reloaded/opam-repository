@@ -25,3 +25,7 @@ synopsis: "Accessors for Core types, for use with the Accessor library"
 description: "
 This library provides accessors for numerous types in Core.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/accessor_core.git#v0.18_preview.130.100+614+reloaded"
+}

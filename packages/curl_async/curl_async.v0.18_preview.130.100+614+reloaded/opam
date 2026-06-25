@@ -28,3 +28,7 @@ Provides a full-featured, performant HTTP client for OCaml with Async.
 Note that a libcurl build with '--disable-socketpair' is required and failures may occur
 with an OS-provided package.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/curl_async.git#v0.18_preview.130.100+614+reloaded"
+}

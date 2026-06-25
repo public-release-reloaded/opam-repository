@@ -28,3 +28,7 @@ increasingly complex data structures.
 
 In case you have ever heard of \"lenses\", this is an OCaml implementation of that idea.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/accessor.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -23,3 +23,7 @@ Library for configuring paths to external EDA tool paths used by Hardcaml librar
 can be used to configure Hardcaml to use your local environment setup by pinning a custom
 (local-install) version of this library. Defaults to relying on tools available in PATH.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_tools_config.git#v0.18_preview.130.100+614+reloaded"
+}

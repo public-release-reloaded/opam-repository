@@ -27,3 +27,7 @@ synopsis: "A library that wraps the Mercurial command line interface"
 description: "
 A library that wraps the Mercurial command line interface.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hg_lib.git#v0.18_preview.130.100+614+reloaded"
+}

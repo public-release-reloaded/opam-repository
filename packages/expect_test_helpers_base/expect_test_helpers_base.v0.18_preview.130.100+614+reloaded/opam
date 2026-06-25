@@ -31,3 +31,7 @@ to be more lightweight than expect_test_helpers_core.
 If you want helpers for writing expect tests using the Async library,
 look at expect_test_helpers_async.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/expect_test_helpers_base.git#v0.18_preview.130.100+614+reloaded"
+}

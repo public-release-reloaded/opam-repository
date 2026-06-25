@@ -23,3 +23,7 @@ synopsis: "Calculate CRC32 checksums"
 description: "
 Library for calculating CRC32 with both the standard polynomial and custom polynomials.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/janestreet_crc.git#v0.18_preview.130.100+614+reloaded"
+}

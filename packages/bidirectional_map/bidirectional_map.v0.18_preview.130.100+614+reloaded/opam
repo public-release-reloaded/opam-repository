@@ -22,3 +22,7 @@ description: "
 A library for bidirectional maps with one-to-one key relationships,
 and bidirectional multimaps with many-to-many key relationships.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/bidirectional_map.git#v0.18_preview.130.100+614+reloaded"
+}

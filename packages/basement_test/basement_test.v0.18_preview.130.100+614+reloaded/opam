@@ -29,3 +29,7 @@ description: "
 Part of Jane Street's Core library
 Tests for the Basement library.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/basement_test.git#v0.18_preview.130.100+614+reloaded"
+}

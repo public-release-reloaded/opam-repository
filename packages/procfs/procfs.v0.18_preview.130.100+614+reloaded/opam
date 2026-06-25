@@ -31,3 +31,7 @@ synopsis: "A parser for values in the Linux `/proc` filesystem."
 description: "
 A parser for values in the Linux `/proc` filesystem.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/procfs.git#v0.18_preview.130.100+614+reloaded"
+}

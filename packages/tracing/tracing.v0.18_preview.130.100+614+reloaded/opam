@@ -29,3 +29,7 @@ synopsis: "Tracing library"
 description: "
 Utilities for creating and parsing traces in Fuchsia Trace Format.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/tracing.git#v0.18_preview.130.100+614+reloaded"
+}

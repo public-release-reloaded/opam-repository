@@ -35,3 +35,7 @@ circuit.
 
 Code can also be generated to wrap the conversion process using Hardcaml interfaces.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_of_verilog.git#v0.18_preview.130.100+614+reloaded"
+}

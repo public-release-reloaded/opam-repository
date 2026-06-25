@@ -31,3 +31,7 @@ synopsis: "OCaml bindings for the floating positioning library for 'toplevel' vi
 description: "
 The floating positioning library itself may be found at https://floating-ui.com/
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/toplayer.git#v0.18_preview.130.100+614+reloaded"
+}

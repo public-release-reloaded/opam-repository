@@ -22,3 +22,7 @@ synopsis: "Hexadecimal encoding library"
 description: "
 This library implements hexadecimal encoding and decoding
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hex_encode.git#v0.18_preview.130.100+614+reloaded"
+}

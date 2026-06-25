@@ -44,3 +44,7 @@ This library is portable and doesn't provide IO functions. To read
 s-expressions from files or other external sources, you should use
 parsexp_io.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/parsexp.git#v0.18_preview.130.100+614+reloaded"
+}

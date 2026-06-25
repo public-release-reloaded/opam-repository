@@ -26,3 +26,7 @@ synopsis: "A library for turning elapsed or future times into human-readable str
 description: "
 A library for turning elapsed or future times into human-readable strings.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/time_ago.git#v0.18_preview.130.100+614+reloaded"
+}

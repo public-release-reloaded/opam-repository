@@ -29,3 +29,7 @@ blocks. In many cases a simulation model is provided.
 The `Synthesis` module implements various arithmetic and logical RTL components with
 Xilinx LUT primitives.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_xilinx.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -20,3 +20,7 @@ synopsis: "Underlying type of `Base.Nonempty_list.t`."
 description: "
 Type for non-empty lists: like `'a list`, with at least one element. Supporting functions are provided in `Base.Nonempty_list`.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/nonempty_list_type.git#v0.18_preview.130.100+614+reloaded"
+}

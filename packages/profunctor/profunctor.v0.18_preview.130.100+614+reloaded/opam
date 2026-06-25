@@ -25,3 +25,7 @@ This is a very small library which provides a signature for profunctor types
 and operations which can be used to traverse a record with them based on
 record_builder and the =ppx_fields= syntax extension.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/profunctor.git#v0.18_preview.130.100+614+reloaded"
+}

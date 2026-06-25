@@ -53,3 +53,7 @@ largest industrial user of OCaml.
 
 This is the system-independent part of Core. Unix-specific parts were moved to [core_unix].
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/core.git#v0.18_preview.130.100+614+reloaded"
+}

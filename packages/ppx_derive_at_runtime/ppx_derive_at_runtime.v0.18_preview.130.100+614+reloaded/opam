@@ -31,3 +31,7 @@ Allows specifying new ppx derivers much more easily than writing
 a ppx by hand. For example, to get `[@@deriving foo]`, you only have to
 specify a module path such as `My_library.Foo`.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_derive_at_runtime.git#v0.18_preview.130.100+614+reloaded"
+}

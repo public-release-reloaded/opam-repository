@@ -32,3 +32,7 @@ A library for N-ary datatypes and operations.
 Provides tuples, enumerations, variants, and list operations
 implemented for N from 2 to 16, inclusive.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/n_ary.git#v0.18_preview.130.100+614+reloaded"
+}

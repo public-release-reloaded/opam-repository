@@ -25,3 +25,7 @@ Inspired by the unix `tree` utility, expectree is a a general purpose tree print
      which renders a tree-shaped sexp using ansi box-drawing characters to make the
      nesting more apparent.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/expectree.git#v0.18_preview.130.100+614+reloaded"
+}

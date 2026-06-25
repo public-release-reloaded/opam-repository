@@ -30,3 +30,7 @@ not be able to recover the key stored in the other one.
 
 This is similar to [Univ] in spirit.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/univ_map.git#v0.18_preview.130.100+614+reloaded"
+}

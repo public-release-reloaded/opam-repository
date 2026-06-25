@@ -29,3 +29,7 @@ description: "
 Single page handlers are handlers that serve user specified JavaScript and css
    files along with a generated index page that loads those files.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/cohttp_static_handler.git#v0.18_preview.130.100+614+reloaded"
+}

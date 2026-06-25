@@ -22,3 +22,7 @@ synopsis: "Types for interacting with the terminal."
 description: "
 Types for interacting with the terminal.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/jane_term_types.git#v0.18_preview.130.100+614+reloaded"
+}

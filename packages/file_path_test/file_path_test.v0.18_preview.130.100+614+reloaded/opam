@@ -26,3 +26,7 @@ synopsis: "Tests of File_path"
 description: "
 Regression tests for `File_path`, deployed separately to avoid cyclic dependencies.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/file_path_test.git#v0.18_preview.130.100+614+reloaded"
+}

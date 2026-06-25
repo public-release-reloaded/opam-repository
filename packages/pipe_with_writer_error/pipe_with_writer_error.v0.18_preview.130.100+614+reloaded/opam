@@ -34,3 +34,7 @@ variety of write functions (namely, `write`, `write_when_ready`,
 `write_if_open`, `write_without_pushback`, and
 `write_without_pushback_if_open`).
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/pipe_with_writer_error.git#v0.18_preview.130.100+614+reloaded"
+}

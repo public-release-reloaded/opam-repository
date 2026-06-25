@@ -29,3 +29,7 @@ The kernel library exposes a simulator modelled after VHDL simulation semantics.
 The main library provides means to convert a Hardcaml design into an event driven
 simulation model and write testbenches against it.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_event_driven_sim.git#v0.18_preview.130.100+614+reloaded"
+}

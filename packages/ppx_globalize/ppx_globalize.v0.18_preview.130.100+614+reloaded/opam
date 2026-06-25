@@ -23,3 +23,7 @@ synopsis: "A ppx rewriter that generates functions to copy local values to the g
 description: "
 Part of the Jane Street's PPX rewriters collection.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_globalize.git#v0.18_preview.130.100+614+reloaded"
+}

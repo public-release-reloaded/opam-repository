@@ -24,3 +24,7 @@ description: "
 Handled_effect provides an effect-safe wrapper for algebraic effects
     using Jane Street compiler extensions.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/handled_effect.git#v0.18_preview.130.100+614+reloaded"
+}

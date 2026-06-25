@@ -28,3 +28,7 @@ that requires us to. It's the same as [Eager_deferred.t], but with a type that i
 from [Deferred.t] so that you have to be more explicit about where you are willing to
 yield to the scheduler.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/maybe_pushback.git#v0.18_preview.130.100+614+reloaded"
+}

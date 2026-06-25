@@ -22,3 +22,7 @@ synopsis: "Allows you to reference the OCaml variable name in RHS expressions"
 description: "
 Allows you to reference the OCaml variable name in RHS expressions.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_var_name.git#v0.18_preview.130.100+614+reloaded"
+}

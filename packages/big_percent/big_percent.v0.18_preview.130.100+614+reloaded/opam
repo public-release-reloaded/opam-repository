@@ -23,3 +23,7 @@ synopsis: "An arbitrary-precision scale factor, not bounded between 0% and 100%.
 description: "
 Big_percent is like Core.Percent but arbitrary-precision, backed by Bignum.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/big_percent.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -25,3 +25,7 @@ description: "
 This library provides a convenient method to traverse sexp trees
 and return subtrees that match the given program.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/sexp_select.git#v0.18_preview.130.100+614+reloaded"
+}

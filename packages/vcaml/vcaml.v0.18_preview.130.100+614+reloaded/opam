@@ -56,3 +56,7 @@ Neovim is from the tested version. The best way to ensure that nothing will
 break unexpectedly for versions of Neovim you wish to support is to write tests
 for your plugin.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/vcaml.git#v0.18_preview.130.100+614+reloaded"
+}

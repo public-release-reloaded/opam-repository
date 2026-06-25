@@ -35,3 +35,7 @@ This repo contains shared dependencies between incr_dom and bonsai: ui_incr
   do not depend on js_of_ocaml. Splitting these 'concrete' libraries to their own
   repo avoids a dependency of the bonsai repo on js_of_ocaml. 
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/bonsai_concrete.git#v0.18_preview.130.100+614+reloaded"
+}

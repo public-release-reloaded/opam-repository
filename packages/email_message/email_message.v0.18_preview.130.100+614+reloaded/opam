@@ -29,3 +29,7 @@ available: arch != "x86_32"
 synopsis: "E-mail message parser"
 description: "
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/email_message.git#v0.18_preview.130.100+614+reloaded"
+}

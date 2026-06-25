@@ -21,3 +21,7 @@ available: arch != "x86_32"
 synopsis: "String representation with cheap concatenation."
 description: "
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/jane_rope.git#v0.18_preview.130.100+614+reloaded"
+}

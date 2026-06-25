@@ -25,3 +25,7 @@ synopsis: "A library for running [Command.t]s in JS/Wasm executables running on 
 description: "
 A library for running [Command.t]s in JS/Wasm executables running on Node.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/command_nodejs.git#v0.18_preview.130.100+614+reloaded"
+}

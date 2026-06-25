@@ -21,3 +21,7 @@ synopsis: "Hardcaml Agents Docs"
 description: "
 Hardcaml Agents Docs provides AI tooling context bundles that can be used to increase the quality of AI-produced Hardcaml code.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_agents_docs.git#v0.18_preview.130.100+614+reloaded"
+}

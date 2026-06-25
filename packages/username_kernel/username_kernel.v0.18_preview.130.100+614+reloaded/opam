@@ -22,3 +22,7 @@ synopsis: "An identifier for a user"
 description: "
 A string representation for a user, typically a UNIX username
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/username_kernel.git#v0.18_preview.130.100+614+reloaded"
+}

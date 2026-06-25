@@ -37,3 +37,7 @@ synopsis: "A Bonsai_term application for managing multiple processes."
 description: "
 A Bonsai_term application for managing multiple processes.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/proctopus.git#v0.18_preview.130.100+614+reloaded"
+}

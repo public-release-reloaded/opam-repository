@@ -25,3 +25,7 @@ synopsis: "Ppx extension for string interpolation using ropes"
 description: "
 Construct ropes using using a PPX extension based on ppx_string
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_rope.git#v0.18_preview.130.100+614+reloaded"
+}

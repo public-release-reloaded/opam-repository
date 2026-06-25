@@ -31,3 +31,7 @@ at expect_test_helpers_base.
 If you want helpers for writing expect tests using the Async library,
 look at expect_test_helpers_async.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/expect_test_helpers_core.git#v0.18_preview.130.100+614+reloaded"
+}

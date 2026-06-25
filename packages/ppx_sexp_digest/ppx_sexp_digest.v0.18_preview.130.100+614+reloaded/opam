@@ -30,3 +30,7 @@ This is meant to be used similarly to `[%bin_digest: t]`. Common sexp serializat
     changes like adding record field annotations don't affect the `[%bin_digest: t]`
     output but do affect this ppx output.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_sexp_digest.git#v0.18_preview.130.100+614+reloaded"
+}

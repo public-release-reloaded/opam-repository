@@ -32,3 +32,7 @@ synopsis: "Support code for FPGA hobby boards."
 description: "
 Interface code for FPGA hobby boards, useful library infrastructure, and build script generation.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_hobby_boards_kernel.git#v0.18_preview.130.100+614+reloaded"
+}

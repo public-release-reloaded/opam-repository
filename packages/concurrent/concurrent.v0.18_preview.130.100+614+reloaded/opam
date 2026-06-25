@@ -29,3 +29,7 @@ description: "
 [Concurrent] is a library that provides an abstract interface to concurrency in
     OxCaml, with multiple implementations for different concurrent schedulers.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/concurrent.git#v0.18_preview.130.100+614+reloaded"
+}

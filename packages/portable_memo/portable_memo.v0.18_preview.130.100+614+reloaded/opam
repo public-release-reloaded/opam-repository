@@ -24,3 +24,7 @@ synopsis: "Drop-in replacement for [Memo] in a multi-domain setting"
 description: "
 [Portable_memo] is a mostly-read cache, intended as a drop-in replacement for [Core.Memo] in OxCaml programs that use multiple domains. It maintains a per-domain hashtable and synchronizes between domains using an atomic map.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/portable_memo.git#v0.18_preview.130.100+614+reloaded"
+}

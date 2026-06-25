@@ -31,3 +31,7 @@ synopsis: "A Bonsai_term application for interactively viewing strace output."
 description: "
 A Bonsai_term application for interactively viewing strace output.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/strace_ui.git#v0.18_preview.130.100+614+reloaded"
+}

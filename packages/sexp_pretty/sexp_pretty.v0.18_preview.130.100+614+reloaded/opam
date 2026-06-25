@@ -26,3 +26,7 @@ description: "
 A library for pretty-printing s-expressions, using better indentation rules than
 the default pretty printer in Sexplib.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/sexp_pretty.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -25,3 +25,7 @@ description: "
 Applicative-based interface for parsing using regular expressions from `ocaml-re`.
 Shares its interface with `Re2.Parser`.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/re_parser.git#v0.18_preview.130.100+614+reloaded"
+}

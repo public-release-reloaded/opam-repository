@@ -24,3 +24,7 @@ description: "
 A ppx rewriter that rewrites simple match statements with an if then
 else expression.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_optional.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -22,3 +22,7 @@ synopsis: "Integers of various widths"
 description: "
 Integers of various widths.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/int_repr.git#v0.18_preview.130.100+614+reloaded"
+}

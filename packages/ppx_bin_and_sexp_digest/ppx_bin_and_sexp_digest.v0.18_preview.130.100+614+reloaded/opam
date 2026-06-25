@@ -28,3 +28,7 @@ description: "
 This is meant to be used in-place of `[%bin_digest: t]`. See `ppx_sexp_digest` and
    `ppx_bin_prot` for more details about each ppx.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_bin_and_sexp_digest.git#v0.18_preview.130.100+614+reloaded"
+}

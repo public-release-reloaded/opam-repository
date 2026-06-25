@@ -35,3 +35,7 @@ description: "
 Base_quickcheck provides randomized testing in the style of Haskell's Quickcheck library,
 with support for built-in types as well as types provided by Base.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/base_quickcheck.git#v0.18_preview.130.100+614+reloaded"
+}

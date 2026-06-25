@@ -24,3 +24,7 @@ available: arch != "x86_32"
 synopsis: "Utilities for building simple command-line based user interfaces"
 description: "
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/async_interactive.git#v0.18_preview.130.100+614+reloaded"
+}

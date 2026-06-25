@@ -27,3 +27,7 @@ description: "
 Embed-file takes some files and generates code for an OCaml module
 defining string constants containing the contents of those files.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ocaml-embed-file.git#v0.18_preview.130.100+614+reloaded"
+}

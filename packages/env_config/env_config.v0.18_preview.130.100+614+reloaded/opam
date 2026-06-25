@@ -29,3 +29,7 @@ configuration from an environment variable. Its goal is to make it easy
 to override a configuration that is loaded from disk, computed, or embedded
 in a library.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/env_config.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -24,3 +24,7 @@ synopsis: "Hardcaml Handshake"
 description: "
 Library for constructing circuits with a pair of valid and ready handshake signals.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_handshake.git#v0.18_preview.130.100+614+reloaded"
+}

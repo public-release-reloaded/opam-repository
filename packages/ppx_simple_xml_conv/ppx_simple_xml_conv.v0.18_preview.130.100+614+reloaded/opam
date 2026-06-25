@@ -32,3 +32,7 @@ Part of the Jane Street's PPX rewriters collection.
     Simple_xml.element, with namespace support.
   
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_simple_xml_conv.git#v0.18_preview.130.100+614+reloaded"
+}

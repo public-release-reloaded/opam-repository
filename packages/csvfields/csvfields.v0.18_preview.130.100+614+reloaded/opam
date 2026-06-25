@@ -23,3 +23,7 @@ available: arch != "x86_32"
 synopsis: "Runtime support for ppx_xml_conv and ppx_csv_conv_deprecated"
 description: "
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/csvfields.git#v0.18_preview.130.100+614+reloaded"
+}

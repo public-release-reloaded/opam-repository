@@ -35,3 +35,7 @@ Very fast verilator-based simulations of Hardcaml circuits.
 This library transparently compiles a verilator-based shared library, and links it back
 to the running executable to be used as a Cyclesim simulation.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_verilator.git#v0.18_preview.130.100+614+reloaded"
+}

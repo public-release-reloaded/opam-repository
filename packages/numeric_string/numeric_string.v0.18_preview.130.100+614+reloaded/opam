@@ -35,3 +35,7 @@ actually does (to me, \"natural sort\" sounds like something that might
 include a different treatment of case, special handling of whitespace
 or punctuation, etc.)
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/numeric_string.git#v0.18_preview.130.100+614+reloaded"
+}

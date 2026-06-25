@@ -24,3 +24,7 @@ synopsis: "S-expression parsing library (IO functions)"
 description: "
 Parsexp_io provides functions for loading s-expressions from files.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/parsexp_io.git#v0.18_preview.130.100+614+reloaded"
+}

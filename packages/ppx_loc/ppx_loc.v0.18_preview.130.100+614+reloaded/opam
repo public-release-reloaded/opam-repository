@@ -24,3 +24,7 @@ synopsis: "A ppx for referencing code locations and names."
 description: "
 A ppx for referencing code locations and names.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_loc.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -23,3 +23,7 @@ synopsis: "Semantic versioning"
 description: "
 A library for representing semantic versions (https://semver.org)
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/semantic_version.git#v0.18_preview.130.100+614+reloaded"
+}

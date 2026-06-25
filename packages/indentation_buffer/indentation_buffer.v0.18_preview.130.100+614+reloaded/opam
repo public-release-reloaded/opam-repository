@@ -22,3 +22,7 @@ synopsis: "A library for building strings with indentation"
 description: "
 A library for building strings with indentation
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/indentation_buffer.git#v0.18_preview.130.100+614+reloaded"
+}

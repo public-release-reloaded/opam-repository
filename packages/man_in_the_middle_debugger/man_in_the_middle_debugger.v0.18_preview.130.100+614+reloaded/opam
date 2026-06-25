@@ -26,3 +26,7 @@ description: "
 This library helps debug a connection between two parties speaking a
 protocol by capturing the traffic that passes between them.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/man_in_the_middle_debugger.git#v0.18_preview.130.100+614+reloaded"
+}

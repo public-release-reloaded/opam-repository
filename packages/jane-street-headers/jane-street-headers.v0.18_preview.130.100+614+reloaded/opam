@@ -20,3 +20,7 @@ synopsis: "Jane Street C header files"
 description: "
 C header files shared between the various Jane Street packages
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/jane-street-headers.git#v0.18_preview.130.100+614+reloaded"
+}

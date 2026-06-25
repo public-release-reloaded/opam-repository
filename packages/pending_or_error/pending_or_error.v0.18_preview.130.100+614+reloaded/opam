@@ -24,3 +24,7 @@ description: "
 A `'a Pending_or_error.t` is a value that comes from an RPC server or some other fallible, asynchronous place. It's isomorphic to an `'a Or_error.t option`, but flattened out and slightly more semantically specific.
     
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/pending_or_error.git#v0.18_preview.130.100+614+reloaded"
+}

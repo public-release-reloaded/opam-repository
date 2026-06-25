@@ -24,3 +24,7 @@ synopsis: "An interface for diffs."
 description: "
 Diffable interface.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/legacy_diffable.git#v0.18_preview.130.100+614+reloaded"
+}

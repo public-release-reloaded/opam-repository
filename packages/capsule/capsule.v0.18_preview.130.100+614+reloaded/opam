@@ -27,3 +27,7 @@ The capsule api provides a safe interface for partitioning mutable data into sha
 memory locations. The `blocking_sync` library provides a naive implementation of some
 synchronization mechanisms that interact with the capsule api.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/capsule.git#v0.18_preview.130.100+614+reloaded"
+}

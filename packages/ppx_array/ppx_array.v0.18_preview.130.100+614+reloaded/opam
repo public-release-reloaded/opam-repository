@@ -25,3 +25,7 @@ synopsis: "Copies array functions for unboxed types so they can be compiled for 
 description: "
 This deriving PPX rewriter is used internally at Jane Street to allow unboxed types to use common array functions. The deriver copies array functions under unboxed types so they can be compiled for the type's specific layout. It is used to simulate layout polymorphism until it is supported first class by the compiler. The long-term goal is thus to delete it entirely.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_array.git#v0.18_preview.130.100+614+reloaded"
+}

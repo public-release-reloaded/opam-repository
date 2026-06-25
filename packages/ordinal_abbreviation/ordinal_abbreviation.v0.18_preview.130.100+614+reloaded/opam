@@ -22,3 +22,7 @@ synopsis: "A minimal library for generating ordinal names of integers."
 description: "
 A minimal library for generating ordinal names of integers.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ordinal_abbreviation.git#v0.18_preview.130.100+614+reloaded"
+}

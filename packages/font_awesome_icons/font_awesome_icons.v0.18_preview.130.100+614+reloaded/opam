@@ -25,3 +25,7 @@ synopsis: "An OCaml library for Font-Awesome SVG icons"
 description: "
 This library contains the free brands, regular and solid SVG icons from Font-Awesome. Compatible for use with bonsai apps.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/font_awesome_icons.git#v0.18_preview.130.100+614+reloaded"
+}

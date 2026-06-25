@@ -24,3 +24,7 @@ synopsis: "A library for determining the js_of_ocaml environment that an OCaml p
 description: "
 A library for determining the js_of_ocaml environment that an OCaml program is running in.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/am_running_how_js.git#v0.18_preview.130.100+614+reloaded"
+}

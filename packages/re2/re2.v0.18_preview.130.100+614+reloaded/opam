@@ -25,3 +25,7 @@ available: arch != "x86_32"
 synopsis: "OCaml bindings for RE2, Google's regular expression library"
 description: "
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/re2.git#v0.18_preview.130.100+614+reloaded"
+}

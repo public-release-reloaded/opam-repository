@@ -38,3 +38,7 @@ A suite of tools for working with CSVs from the command line.  It
 contains subcommands for pretty printing, selecting, and combining
 CSVs, as well as some conversions to other formats.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/janestreet_csv.git#v0.18_preview.130.100+614+reloaded"
+}

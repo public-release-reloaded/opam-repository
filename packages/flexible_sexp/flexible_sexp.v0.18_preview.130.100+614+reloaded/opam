@@ -36,3 +36,7 @@ Using flexible_sexp one can achieve the following:
 - All code will be able to roundtrip all sexps (i.e. old code will not silently
   drop future fields/constructors that are not yet known).
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/flexible_sexp.git#v0.18_preview.130.100+614+reloaded"
+}

@@ -21,3 +21,7 @@ synopsis: "Ppx for debug assertions"
 description: "
 A ppx rewriter for debug assertions.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_debug_assert.git#v0.18_preview.130.100+614+reloaded"
+}

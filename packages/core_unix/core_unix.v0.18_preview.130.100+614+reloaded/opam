@@ -35,3 +35,7 @@ Unix-specific extensions to some of the modules defined in [core] and [core_kern
 "
 depexts: ["linux-headers"] {os-family = "alpine"}
 available: arch != "arm32" & arch != "x86_32" & arch != "riscv32" & arch != "riscv64"
+
+url {
+  src: "git+https://github.com/public-release-reloaded/core_unix.git#v0.18_preview.130.100+614+reloaded"
+}

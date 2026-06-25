@@ -23,3 +23,7 @@ Experimental.
 "
 depexts: ["linux-headers"] {os-family = "alpine"}
 available: (arch = "x86_64" | arch = "arm64") & os = "linux"
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ocaml-probes.git#v0.18_preview.130.100+614+reloaded"
+}

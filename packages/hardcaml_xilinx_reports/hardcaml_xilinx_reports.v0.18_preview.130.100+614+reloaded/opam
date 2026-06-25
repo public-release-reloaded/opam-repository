@@ -37,3 +37,7 @@ The synthesis process for each module can be configured to report statistics for
 just the local module, or for all modules below it as well. Running in different
 ways can provide better insight into the design.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_xilinx_reports.git#v0.18_preview.130.100+614+reloaded"
+}

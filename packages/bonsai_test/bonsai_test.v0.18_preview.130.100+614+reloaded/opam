@@ -41,3 +41,7 @@ description: "
 Bonsai is a library for building composable state machines. This libary
     provides testing capabilities.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/bonsai_test.git#v0.18_preview.130.100+614+reloaded"
+}

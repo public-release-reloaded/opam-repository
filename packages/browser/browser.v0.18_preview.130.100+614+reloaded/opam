@@ -24,3 +24,7 @@ synopsis: "A library containing bindings to web APIs"
 description: "
 Browser contains bindings to web APIs. The bindings are generated from Chromium's WebIDL files
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/browser.git#v0.18_preview.130.100+614+reloaded"
+}

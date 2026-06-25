@@ -25,3 +25,7 @@ synopsis: "A library for running the fzf command line tool"
 description: "
 A library for running the fzf command line fuzzy matcher
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/fzf.git#v0.18_preview.130.100+614+reloaded"
+}

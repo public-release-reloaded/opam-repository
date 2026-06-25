@@ -30,3 +30,7 @@ description: "
 Bonsai_term is a library for building reusable TUI components and apps inside an
     Incremental-style UI framework similar to Bonsai_web, Incr_dom or React.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/bonsai_term.git#v0.18_preview.130.100+614+reloaded"
+}

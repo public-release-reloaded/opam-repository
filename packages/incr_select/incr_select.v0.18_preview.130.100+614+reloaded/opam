@@ -28,3 +28,7 @@ default value. The outputs are updated in time proportional to the
 number of outputs that are changed, independent of the number of
 outputs that exist.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/incr_select.git#v0.18_preview.130.100+614+reloaded"
+}

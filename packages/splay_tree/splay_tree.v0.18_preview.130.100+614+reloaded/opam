@@ -32,3 +32,7 @@ Notably, this splay tree implementation is parameterized by a
 reduction operation which lets you specify an extra accumulator value,
 which can then be searched by efficiently.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/splay_tree.git#v0.18_preview.130.100+614+reloaded"
+}

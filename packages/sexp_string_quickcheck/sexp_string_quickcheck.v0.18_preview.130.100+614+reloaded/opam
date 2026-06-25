@@ -25,3 +25,7 @@ This library provides quickcheck generators, helpers, and shrinkers for
 quickcheck-based tests that wish to exercise the concrete syntax of sexps,
 including escape sequences and comments.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/sexp_string_quickcheck.git#v0.18_preview.130.100+614+reloaded"
+}

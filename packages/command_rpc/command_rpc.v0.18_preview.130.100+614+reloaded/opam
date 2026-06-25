@@ -24,3 +24,7 @@ available: arch != "x86_32"
 synopsis: "Utilities for Versioned RPC communication with a child process over stdin and stdout"
 description: "
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/command_rpc.git#v0.18_preview.130.100+614+reloaded"
+}

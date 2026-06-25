@@ -28,3 +28,7 @@ synopsis: "Hardcaml AXI Interface Types"
 description: "
 AXI Lite, Full and Stream Interfaces for Hardcaml
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/hardcaml_axi.git#v0.18_preview.130.100+614+reloaded"
+}

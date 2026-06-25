@@ -26,3 +26,7 @@ This library offers a functor to create a resource cache over some
 abstract [Resource] type. The cache enables resource reuse while
 obeying various limits.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/resource_cache.git#v0.18_preview.130.100+614+reloaded"
+}

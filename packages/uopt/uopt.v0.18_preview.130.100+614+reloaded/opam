@@ -22,3 +22,7 @@ synopsis: "An [option]-like type that incurs no allocation, without requiring a 
 description: "
 Uopt_base provides an unboxed option type, for use in high-performance systems which avoid allocation. It has several downsides as compared to [option], and is not recommended for use in general-purpose software.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/uopt.git#v0.18_preview.130.100+614+reloaded"
+}

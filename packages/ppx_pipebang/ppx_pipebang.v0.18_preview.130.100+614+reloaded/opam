@@ -22,3 +22,7 @@ synopsis: "A ppx rewriter that inlines reverse application operators `|>` and `|
 description: "
 Part of the Jane Street's PPX rewriters collection.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_pipebang.git#v0.18_preview.130.100+614+reloaded"
+}

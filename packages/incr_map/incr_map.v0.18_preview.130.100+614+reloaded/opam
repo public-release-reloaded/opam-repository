@@ -33,3 +33,7 @@ like data structures.  This leverages new functionality in Incremental
 along with the ability to efficiently diff map data structures using
 =Map.symmetric_diff=.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/incr_map.git#v0.18_preview.130.100+614+reloaded"
+}

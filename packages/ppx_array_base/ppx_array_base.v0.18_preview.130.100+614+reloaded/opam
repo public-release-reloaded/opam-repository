@@ -23,3 +23,7 @@ synopsis: "Defines array functions used in [Base.Array]."
 description: "
 This PPX defines array functions used in [Base.Array] via attribute expansion. It also contains the expansion code for [ppx_array], which registers the deriving and extension PPXes.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_array_base.git#v0.18_preview.130.100+614+reloaded"
+}

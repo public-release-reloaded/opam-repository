@@ -27,3 +27,7 @@ description: "
 Timezone handles parsing timezone data and create [Timezone.t] that
 can later be used to manipulate time in core_kernel or core.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/timezone.git#v0.18_preview.130.100+614+reloaded"
+}

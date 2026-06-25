@@ -22,3 +22,7 @@ synopsis: "An LRU Cache implementation."
 description: "
 Implementation of a Least Recently Used Cache.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/janestreet_lru_cache.git#v0.18_preview.130.100+614+reloaded"
+}

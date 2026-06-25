@@ -25,3 +25,7 @@ synopsis: "Memory-mapped buffers, using the mmap system call"
 description: "
 Provides some convenience functions for creating memory-mapped buffers when writing low-level code.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/mmap.git#v0.18_preview.130.100+614+reloaded"
+}

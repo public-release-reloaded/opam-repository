@@ -23,3 +23,7 @@ synopsis: "A library for typed manipulation of UNIX-style file paths"
 description: "
 A library for typed manipulation of UNIX-style file paths.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/file_path.git#v0.18_preview.130.100+614+reloaded"
+}

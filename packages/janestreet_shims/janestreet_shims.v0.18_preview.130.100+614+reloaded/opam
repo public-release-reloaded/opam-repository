@@ -22,3 +22,7 @@ Janestreet_shims provides shims for Jane Street compiler extensions
   like unboxed types. It simulates primitives like unboxed integers at the cost
   of runtime performance.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/janestreet_shims.git#v0.18_preview.130.100+614+reloaded"
+}

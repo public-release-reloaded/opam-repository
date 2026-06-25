@@ -22,3 +22,7 @@ synopsis: "Functions for working with and formatting 48-bit MAC addresses."
 description: "
 Functions for working with and formatting 48-bit MAC addresses.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/netlib.git#v0.18_preview.130.100+614+reloaded"
+}

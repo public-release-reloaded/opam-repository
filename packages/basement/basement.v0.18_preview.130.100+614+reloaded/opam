@@ -23,3 +23,7 @@ Basement is a library containing a number of modules that belong to Base, but ne
 defined upstream of Base to break circular dependencies with other libraries, such as
 sexplib0
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/basement.git#v0.18_preview.130.100+614+reloaded"
+}

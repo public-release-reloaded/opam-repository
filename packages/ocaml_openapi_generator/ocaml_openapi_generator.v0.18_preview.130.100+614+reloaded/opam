@@ -37,3 +37,7 @@ synopsis: "An OpenAPI 3 to OCaml client generator."
 description: "
 An OpenAPI 3 to OCaml client generator.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ocaml_openapi_generator.git#v0.18_preview.130.100+614+reloaded"
+}

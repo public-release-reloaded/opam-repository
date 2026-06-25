@@ -29,3 +29,7 @@ dictionary is created.
 This uses the algorithm the OCaml compiler uses for pattern matching
 on strings.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/string_dict.git#v0.18_preview.130.100+614+reloaded"
+}

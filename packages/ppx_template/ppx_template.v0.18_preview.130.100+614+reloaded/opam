@@ -25,3 +25,7 @@ synopsis: "C++-style templates for kind, mode, modality, and allocator polymorph
 description: "
 This PPX rewriter is used internally at Jane Street to simulate polymorphism over various extensions to OCaml's type system, in cases where there is not yet built-in compiler support. The long-term goal is thus to delete it entirely.
 "
+
+url {
+  src: "git+https://github.com/public-release-reloaded/ppx_template.git#v0.18_preview.130.100+614+reloaded"
+}
