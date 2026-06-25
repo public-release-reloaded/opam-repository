@@ -2,9 +2,9 @@ version: "v0.18_preview.130.100+614+reloaded"
 opam-version: "2.0"
 maintainer: "Jane Street developers"
 authors: ["Jane Street Group, LLC"]
-homepage: "https://github.com/janestreet/procfs"
-bug-reports: "https://github.com/janestreet/procfs/issues"
-dev-repo: "git+https://github.com/janestreet/procfs.git"
+homepage: "https://github.com/public-release-reloaded/procfs"
+bug-reports: "https://github.com/public-release-reloaded/procfs/issues"
+dev-repo: "git+https://github.com/public-release-reloaded/procfs.git#v0.18_preview.130.100+614+reloaded"
 doc: "https://ocaml.janestreet.com/ocaml-core/latest/doc/procfs/index.html"
 license: "MIT"
 x-maintenance-intent: ["(latest)"]

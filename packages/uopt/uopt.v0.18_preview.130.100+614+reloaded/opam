@@ -2,9 +2,9 @@ version: "v0.18_preview.130.100+614+reloaded"
 opam-version: "2.0"
 maintainer: "Jane Street developers"
 authors: ["Jane Street Group, LLC"]
-homepage: "https://github.com/janestreet/uopt"
-bug-reports: "https://github.com/janestreet/uopt/issues"
-dev-repo: "git+https://github.com/janestreet/uopt.git"
+homepage: "https://github.com/public-release-reloaded/uopt"
+bug-reports: "https://github.com/public-release-reloaded/uopt/issues"
+dev-repo: "git+https://github.com/public-release-reloaded/uopt.git#v0.18_preview.130.100+614+reloaded"
 doc: "https://ocaml.janestreet.com/ocaml-core/latest/doc/uopt/index.html"
 license: "MIT"
 x-maintenance-intent: ["(latest)"]
